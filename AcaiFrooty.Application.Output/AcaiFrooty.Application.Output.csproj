@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcaiFroot.Domain\AcaiFrooty.Domain.csproj" />
+    <ProjectReference Include="..\AcaiFrooty.Data\AcaiFrooty.Data.csproj" />
+  </ItemGroup>
+
+</Project>
